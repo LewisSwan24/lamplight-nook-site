@@ -1,0 +1,37 @@
+{
+  "lang": "en",
+  "htmlLang": "en",
+  "page": "index.html",
+  "other": { "page": "zh.html", "label": "中文" },
+  "name": "Lamplight Nook",
+  "tagline": "A cozy pixel shop where a small team does computer jobs for you, powered by Claude.",
+  "buy": "Coming soon to Microsoft Store",
+  "price": "US$9.99, one-time. Windows 10/11.",
+  "hero": "05-result",
+  "intro": "Hand a commission slip to the counter and the staff get to work. Wick plans the job, Clem runs out to look things up, Iris settles the colours and layout, Flint checks everything before it leaves the shop, and Chestnut the cat supervises. Behind the pixels it is Claude Code, Anthropic's AI agent, working in a folder on your PC, and every step shows up as life in the shop.",
+  "features": [
+    { "shot": "01-order", "title": "Ask for real things", "text": "A small web page, a researched summary, an edited copy of a document, a plan for a messy folder, a letter, a table, a plan for the weeks ahead, or an album of your photos." },
+    { "shot": "02-board", "title": "See how far along it is", "text": "Wick chalks the real to-do list on the blackboard and ticks it off as the work goes, so you can tell at a glance what is done and how much is left." },
+    { "shot": "03-materials", "title": "Hand things over", "text": "A screenshot, a spreadsheet, a draft to fix: drop it on the counter and Wick has it. The staff work on copies; your originals stay as they are." },
+    { "shot": "04-question", "title": "You stay in charge", "text": "Wick asks before choices; risky steps wait for your OK. Ring the bell to add a request mid-job." },
+    { "shot": "06-notebook", "title": "It remembers you", "text": "Past jobs, your choices and the snags you hit, kept only on your PC." },
+    { "shot": "07-garden", "title": "A shop that lives", "text": "Weather and seasons from the calendar, holiday decorations, a back garden with Malt the dog and the hens, neighbours who drop in, and a look of your own." },
+    { "shot": "08-shelf", "title": "Change it again", "text": "Finished work goes on the works shelf. Ask for another round any time; the last version is kept in case you want it back. The shop picks up a little more as the jobs add up." },
+    { "shot": "11-furnish", "title": "Make it yours", "text": "Pick a wall colour, curtains and a rug. The café and the study each keep their own." },
+    { "shot": "09-study", "title": "A study at home", "text": "Prefer something quieter? Move the shop into a study with a sofa, a globe and a reading lamp. Everything you have gathered comes along." },
+    { "shot": "10-mini", "title": "Out of sight, still in touch", "text": "Minimise the shop and a small window in the corner shows who is working, which item of the plan is under way, and calls you when a question is waiting." }
+  ],
+  "needTitle": "What you need",
+  "need": [
+    "Claude Code on your PC (free; the app walks you through installing it).",
+    "Your own Anthropic API key. You pay Anthropic for what the staff use, usually well under a dollar for a small job. Every job shows its cost, and you can set a cap.",
+    "No account, no subscription, no telemetry. Not available where Anthropic does not offer its API, including mainland China and Hong Kong."
+  ],
+  "footer": {
+    "privacy": ["privacy.html", "Privacy"],
+    "terms": ["terms.html", "Terms of use"],
+    "support": "Support",
+    "credits": "Pixel art by LimeZu. Music by Alex Morgan (CC BY 4.0). Claude is a trademark of Anthropic."
+  },
+  "legalTitle": "{title} - Lamplight Nook"
+}
